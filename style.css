@@ -1,0 +1,96 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+.nav-item {
+  font-size: 20px;
+  font-weight: 200;
+  margin-left: 100px;
+  text-align: center;
+}
+
+.nav-item {
+  font-weight: 600;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 150px;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: 100px;
+}
+
+.intro img {
+  width: 40%;
+}
+
+.salam img {
+  width: 50%;
+  margin-top: 50px;
+}
+
+.salam p {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.keluarga {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.keluarga img {
+  width: 10rem;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.keluarga h5 {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.keluarga p {
+  margin-top: 20px;
+}
+
+.keluarga h3 {
+  font-size: 80px;
+  font-family: "Dancing Script", cursive;
+}
+
+.tanggal {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.table {
+  text-align: center;
+  text-shadow: 5em;
+}
+
+.table h3 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+}
+
+.penutup {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.penutup img {
+  margin-top: 20px;
+  width: 40%;
+}
+
+footer {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.lokasi {
+  text-align: center;
+  margin-top: 150px;
+}
